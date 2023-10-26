@@ -1,0 +1,2 @@
+Access token is availabe only for short time to make it available for longer period we will use refresh token.Interceptor or middleware are used to after or before the main method.
+We will use a response Interceptor ie the code gets executed before response reaches the calling end
