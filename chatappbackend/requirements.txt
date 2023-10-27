@@ -18,6 +18,9 @@ defer==1.0.6
 distro==1.7.0
 distro-info==1.1+ubuntu0.1
 Django==3.2.12
+django-cors-headers==4.3.0
+djangorestframework==3.14.0
+djangorestframework-simplejwt==5.3.0
 docker==5.0.3
 docker-compose==1.29.2
 dockerpty==0.4.1
