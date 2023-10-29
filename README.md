@@ -20,5 +20,5 @@ A real-time chat application using django channels(web sockets) and reactjs libr
 
 ## Acknowledgements
 
- - [JWT Authentication](https://medium.com/@ronakchitlangya1997/jwt-authentication-with-react-js-and-django-c034aae1e60d)
+ - [JWT Authentication](https://medium.com/@ronakchitlangya1997/jwt-authentication-with-react-js-and-django-c034aae1e60d),[Registration](https://dev.to/ki3ani/implementing-jwt-authentication-and-user-profile-with-django-rest-api-part-3-3dh9)
  
