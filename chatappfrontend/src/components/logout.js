@@ -18,6 +18,7 @@ export const Logout = () => {
                 if (response && response.status === 205) {
                     // Clear local storage and tokens
                     localStorage.clear();
+                    window.location.href='/login';
                 } else {
                     console.error('Unexpected response:', response);
                 }

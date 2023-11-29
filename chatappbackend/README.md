@@ -27,3 +27,5 @@ The Backend is based on Django framework.
 └── requirements.txt
 
 ```
+## Features
+- Authentication based on django rest framework ,authentication based on access and refresh token where frontend makes request using axios and corsheaders.
